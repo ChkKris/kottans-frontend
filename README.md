@@ -2,7 +2,7 @@
 ## Stage 0. Self-Study
 ### General
 - [x] 0. [Git Basic](#git-basic) 
-- [x] 1. Linux CLI and Networking
+- [x] 1. [Linux CLI and Networking](#linux-cli-and-http)
 - [ ] 2. VCS, GitHub and Collaborating
 
 ### Front-End Basics
@@ -80,7 +80,7 @@ git log --graph --oneline
 </picture>
 </details>
 
-## Linux CLI, and HTTP
+## Linux CLI and HTTP
 1. With the help of the resource [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/) I studied the commands that I had not previously used in my work, I think that they will be useful to me.
 
 <details>
