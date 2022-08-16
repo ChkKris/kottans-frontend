@@ -1,8 +1,8 @@
 # kottans-frontend
 ## Stage 0. Self-Study
 ### General
-- [X] 0. [Git Basic](#git-basic) 
-- [ ] 1. Linux CLI and Networking
+- [x] 0. [Git Basic](#git-basic) 
+- [x] 1. Linux CLI and Networking
 - [ ] 2. VCS, GitHub and Collaborating
 
 ### Front-End Basics
