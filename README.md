@@ -80,3 +80,37 @@ git log --graph --oneline
 </picture>
 </details>
 
+## Linux CLI, and HTTP
+1. With the help of the resource [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/) I studied the commands that I had not previously used in my work, I think that they will be useful to me.
+
+<details>
+<summary>Linux Survival Quiz1</summary> 
+<picture>
+  <img alt="Quiz1" src="https://user-images.githubusercontent.com/105452997/184913079-5d40e44e-0d4d-4b0a-b23f-854abc1204af.png">
+</picture>
+</details>
+
+<details>
+<summary>Linux Survival Quiz2</summary> 
+<picture>
+  <img alt="Quiz2" src="https://user-images.githubusercontent.com/105452997/184913634-e6f64ab5-ee3f-4884-8439-c499e811684b.png">
+</picture>
+</details>
+
+<details>
+<summary>Linux Survival Quiz3</summary> 
+<picture>
+  <img alt="Quiz3" src="https://user-images.githubusercontent.com/105452997/184913784-ff300f29-d6b1-4ca0-a169-832963765ce5.png">
+</picture>
+</details>
+
+<details>
+<summary>Linux Survival Quiz4</summary> 
+<picture>
+  <img alt="Quiz4" src="https://user-images.githubusercontent.com/105452997/184913909-2d91cd7b-d22c-41de-b4cc-322cfdd0d810.png">
+</picture>
+</details>
+
+2. The material described in turned out to be quite interesting, some of the information was new to me.  
+[HTTP: The Protocol Every Web Developer Should Understand - Part 1](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)  
+[HTTP: The Protocol Every Web Developer Should Understand - Part 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
