@@ -3,7 +3,7 @@
 ### General
 - [x] 0. [Git Basic](#git-basic) 
 - [x] 1. [Linux CLI and Networking](#linux-cli-and-http)
-- [ ] 2. VCS, GitHub and Collaborating
+- [x] 2. [VCS, GitHub and Collaborating](#git-collaboration)
 
 ### Front-End Basics
 - [ ] 3. Intro to HTML & CSS
@@ -114,3 +114,20 @@ git log --graph --oneline
 2. The material described in turned out to be quite interesting, some of the information was new to me.  
 [HTTP: The Protocol Every Web Developer Should Understand - Part 1](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)  
 [HTTP: The Protocol Every Web Developer Should Understand - Part 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
+
+## Git Collaboration
+1. Weeks 3 and 4 of the [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) course did not contain much new information for me, since I learned it in the penultimate assignment of the course. Rather, it helped me refresh my knowledge. Perhaps this task would be useful before the pull request element, which would allow for fewer mistakes and save time.  
+
+<details>
+<summary>Week3</summary> 
+<picture>
+  <img alt="Week3" src="https://user-images.githubusercontent.com/105452997/185218037-03aace48-8743-435a-bf51-535acdc4f2cb.png">
+</picture>
+</details>
+
+<details>
+<summary>Week4</summary> 
+<picture>
+  <img alt="Week4" src="https://user-images.githubusercontent.com/105452997/185218316-c20e4bb8-b37a-46f3-8644-26ad2649fc69.png">
+</picture>
+</details>
