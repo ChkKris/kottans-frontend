@@ -136,6 +136,21 @@ git log --graph --oneline
 1. A good basic knowledge is given by the course ["Introduction to HTML and CSS"](https://www.coursera.org/learn/html-css-javascript-for-web-developers). I have already gone through it before, I was able to apply the learned tags and styles in practice. Also useful for working in Sublime Text was Browser Sync. I have been using it for some time at work.  
 I also want to note that there is a source code on GitHub https://github.com/jhu-ep-coursera/fullstack-course4 , which is useful when performing practical tasks.
 
+<details>
+<summary>Week1</summary> 
+<picture>
+  <img alt="Week1" src="https://user-images.githubusercontent.com/105452997/186258128-a33b6d2f-2575-4489-8f3b-ef9b9180a4f3.png">
+</picture>
+</details>
+
+<details>
+<summary>Week2</summary> 
+<picture>
+  <img alt="Week2" src="https://user-images.githubusercontent.com/105452997/186258279-8e3ef730-9cad-4191-9714-4c11874ae48c.png">
+</picture>
+</details>
+
+
 2. The [Learn HTML](https://www.codecademy.com/learn/learn-html) course covered:
 - Elements and Structure
 - Tables
@@ -149,3 +164,10 @@ I also want to note that there is a source code on GitHub https://github.com/jhu
 - Display and Positioning
 - Colors
 - Typography
+
+<details>
+<summary>Learn HTML and CSS</summary> 
+<picture>
+  <img alt="codecademy" src="https://user-images.githubusercontent.com/105452997/186258860-c9d161d5-b0ae-46df-afcd-35d5ac102fc2.png">
+</picture>
+</details>
