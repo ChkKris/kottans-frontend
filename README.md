@@ -6,7 +6,7 @@
 - [x] 2. [VCS, GitHub and Collaborating](#git-collaboration)
 
 ### Front-End Basics
-- [ ] 3. Intro to HTML & CSS
+- [x] 3. [Intro to HTML & CSS](#intro-to-html-and-css)
 - [ ] 4. Responsive Web Design
 - [ ] 5. HTML & CSS Practice
 - [ ] 6. JavaScript Basics
@@ -131,3 +131,21 @@ git log --graph --oneline
   <img alt="Week4" src="https://user-images.githubusercontent.com/105452997/185218316-c20e4bb8-b37a-46f3-8644-26ad2649fc69.png">
 </picture>
 </details>
+
+## Intro to HTML and CSS
+1. A good basic knowledge is given by the course ["Introduction to HTML and CSS"](https://www.coursera.org/learn/html-css-javascript-for-web-developers). I have already gone through it before, I was able to apply the learned tags and styles in practice. Also useful for working in Sublime Text was Browser Sync. I have been using it for some time at work.  
+I also want to note that there is a source code on GitHub https://github.com/jhu-ep-coursera/fullstack-course4 , which is useful when performing practical tasks.
+
+2. The [Learn HTML](https://www.codecademy.com/learn/learn-html) course covered:
+- Elements and Structure
+- Tables
+- Forms
+- Semantic HTML
+
+3. The [Learn CSS](https://www.codecademy.com/learn/learn-css) course covered:
+- Syntax and Selectors
+- Visual Rules
+- The Box Model
+- Display and Positioning
+- Colors
+- Typography
