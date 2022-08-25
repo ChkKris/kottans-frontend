@@ -7,7 +7,7 @@
 
 ### Front-End Basics
 - [x] 3. [Intro to HTML & CSS](#intro-to-html-and-css)
-- [ ] 4. Responsive Web Design
+- [ ] 4. [Responsive Web Design](#responsive-web-design)
 - [ ] 5. HTML & CSS Practice
 - [ ] 6. JavaScript Basics
 - [ ] 7. Document Object Model 
@@ -171,3 +171,37 @@ I also want to note that there is a source code on GitHub https://github.com/jhu
   <img alt="codecademy" src="https://user-images.githubusercontent.com/105452997/186258860-c9d161d5-b0ae-46df-afcd-35d5ac102fc2.png">
 </picture>
 </details>
+
+## Responsive Web Design
+1. [Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/) the article perfectly describes which meta tags are key when developing responsive design for any device.
+
+```
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    …
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    …
+  </head>
+  …
+ ```
+ 
+ ```
+ img {
+  max-width: 100%;
+  display: block;
+}
+ ```  
+ 
+Using CSS media queries for fast response:  
+
+```
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    …
+    <link rel="stylesheet" href="print.css" media="print">
+    …
+  </head>
+  …
+```
