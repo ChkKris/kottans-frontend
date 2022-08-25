@@ -206,9 +206,19 @@ Using CSS media queries for fast response:
   …
 ```
 
+
 2. You can streamline your knowledge of FLEXBOX with the help of the material presented https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x.  
 It was very helpful. I also liked that you can immediately put the knowledge into practice using the template layout.
 
 `flex/inline-flex` `flex-wrap` `flex-direction` `justify-content` `align-items` `order` 
 
 `align-self` `flex-basis` `flex-grow` `flex-shrink` `flex-grow` `flex-basis`
+
+
+3. [Flexbox Froggy](http://flexboxfroggy.com/) A fun game to test yourself.
+<details>
+<summary>flexbox froggy</summary> 
+<picture>
+  <img alt="flexbox froggy" src="https://user-images.githubusercontent.com/105452997/186660805-2f672893-bf60-4649-a139-e3e09ee1d897.png">
+</picture>
+</details>
