@@ -166,7 +166,7 @@ I also want to note that there is a source code on GitHub https://github.com/jhu
 - Typography
 
 <details>
-<summary>Learn HTML and CSS</summary> 
+<summary>codecademy</summary> 
 <picture>
   <img alt="codecademy" src="https://user-images.githubusercontent.com/105452997/186258860-c9d161d5-b0ae-46df-afcd-35d5ac102fc2.png">
 </picture>
