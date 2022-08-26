@@ -68,13 +68,13 @@ git log --graph --oneline
 2. Walking through the educational game [learngitbranching.js.org](https://learngitbranching.js.org/) of learning commands in Git was fun and very rewarding since I had never experienced it in practice before.
 
 <details>
-<summary>learn git branch basic</summary> 
+<summary>learn git_branch_basic</summary> 
 <picture>
   <img alt="screen1" src="https://user-images.githubusercontent.com/105452997/183896025-b07918c5-770a-4f96-a6cf-586b891e5e82.png">
 </picture>
 </details>
 
-<details><summary>learn git branch remote</summary> 
+<details><summary>learn_git_branch_remote</summary> 
 <picture>
   <img alt="screen2" src="https://user-images.githubusercontent.com/105452997/183900478-2b85b012-16c7-47aa-b8be-14c7f6901bcf.png">
 </picture>
@@ -84,28 +84,28 @@ git log --graph --oneline
 1. With the help of the resource [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/) I studied the commands that I had not previously used in my work, I think that they will be useful to me.
 
 <details>
-<summary>Linux Survival Quiz1</summary> 
+<summary>linux_survival_quiz1</summary> 
 <picture>
   <img alt="Quiz1" src="https://user-images.githubusercontent.com/105452997/184913079-5d40e44e-0d4d-4b0a-b23f-854abc1204af.png">
 </picture>
 </details>
 
 <details>
-<summary>Linux Survival Quiz2</summary> 
+<summary>linux_survival_quiz2</summary> 
 <picture>
   <img alt="Quiz2" src="https://user-images.githubusercontent.com/105452997/184913634-e6f64ab5-ee3f-4884-8439-c499e811684b.png">
 </picture>
 </details>
 
 <details>
-<summary>Linux Survival Quiz3</summary> 
+<summary>linux_survival_quiz3</summary> 
 <picture>
   <img alt="Quiz3" src="https://user-images.githubusercontent.com/105452997/184913784-ff300f29-d6b1-4ca0-a169-832963765ce5.png">
 </picture>
 </details>
 
 <details>
-<summary>Linux Survival Quiz4</summary> 
+<summary>linux_survival_quiz4</summary> 
 <picture>
   <img alt="Quiz4" src="https://user-images.githubusercontent.com/105452997/184913909-2d91cd7b-d22c-41de-b4cc-322cfdd0d810.png">
 </picture>
@@ -119,14 +119,14 @@ git log --graph --oneline
 1. Weeks 3 and 4 of the [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) course did not contain much new information for me, since I learned it in the penultimate assignment of the course. Rather, it helped me refresh my knowledge. Perhaps this task would be useful before the pull request element, which would allow for fewer mistakes and save time.  
 
 <details>
-<summary>Week3</summary> 
+<summary>week3</summary> 
 <picture>
   <img alt="Week3" src="https://user-images.githubusercontent.com/105452997/185218037-03aace48-8743-435a-bf51-535acdc4f2cb.png">
 </picture>
 </details>
 
 <details>
-<summary>Week4</summary> 
+<summary>week4</summary> 
 <picture>
   <img alt="Week4" src="https://user-images.githubusercontent.com/105452997/185218316-c20e4bb8-b37a-46f3-8644-26ad2649fc69.png">
 </picture>
@@ -137,14 +137,14 @@ git log --graph --oneline
 I also want to note that there is a source code on GitHub https://github.com/jhu-ep-coursera/fullstack-course4 , which is useful when performing practical tasks.
 
 <details>
-<summary>Week1</summary> 
+<summary>week1</summary> 
 <picture>
-  <img alt="Week1" src="https://user-images.githubusercontent.com/105452997/186258128-a33b6d2f-2575-4489-8f3b-ef9b9180a4f3.png">
+  <img alt="week1" src="https://user-images.githubusercontent.com/105452997/186258128-a33b6d2f-2575-4489-8f3b-ef9b9180a4f3.png">
 </picture>
 </details>
 
 <details>
-<summary>Week2</summary> 
+<summary>week2</summary> 
 <picture>
   <img alt="Week2" src="https://user-images.githubusercontent.com/105452997/186258279-8e3ef730-9cad-4191-9714-4c11874ae48c.png">
 </picture>
@@ -217,7 +217,7 @@ It was very helpful. I also liked that you can immediately put the knowledge int
 
 3. [Flexbox Froggy](http://flexboxfroggy.com/) A fun game to test yourself.
 <details>
-<summary>flexbox froggy</summary> 
+<summary>flexbox_froggy</summary> 
 <picture>
   <img alt="flexbox froggy" src="https://user-images.githubusercontent.com/105452997/186660805-2f672893-bf60-4649-a139-e3e09ee1d897.png">
 </picture>
@@ -233,3 +233,10 @@ It was very helpful. I also liked that you can immediately put the knowledge int
 
 - Definition of an implicit grid `grid-auto-columns` `grid-auto-rows` `grid-auto-flow`
 
+5. [Grid Garden](http://cssgridgarden.com/) a cool game to consolidate the learned properties in practice.  
+<details>
+<summary>grid_garden</summary> 
+<picture>
+  <img alt="grid_garden" src="https://user-images.githubusercontent.com/105452997/186939821-9532366f-1ec9-4c76-834f-2863113a5810.png">
+</picture>
+</details>
