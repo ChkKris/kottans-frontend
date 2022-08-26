@@ -222,3 +222,12 @@ It was very helpful. I also liked that you can immediately put the knowledge int
   <img alt="flexbox froggy" src="https://user-images.githubusercontent.com/105452997/186660805-2f672893-bf60-4649-a139-e3e09ee1d897.png">
 </picture>
 </details>
+
+4. [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm) Before this tutorial, I was not familiar with Grid Layout. It got me interested and I want to try it in practice.  
+
+- Grid container declaration options `grid` `inline-grid`
+
+- Explicit grid definition `grid-template-rows` `grid-template-columns` `grid-template` `grid-template-areas`
+
+- Definition of an implicit grid `grid-auto-columns` `grid-auto-rows` `grid-auto-flow`
+
