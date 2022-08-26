@@ -225,6 +225,8 @@ It was very helpful. I also liked that you can immediately put the knowledge int
 
 4. [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm) Before this tutorial, I was not familiar with Grid Layout. It got me interested and I want to try it in practice.  
 
+- **fr** is a unit of length that allows you to create flexible tracks. It is not a unit in the usual sense, and therefore cannot be represented or combined with other types of units in calc() expressions. The total size of the fixed rows or columns is subtracted from the available space of the grid container. The remaining space is divided between rows and columns with flexible sizes in proportion to their ratio.
+
 - Grid container declaration options `grid` `inline-grid`
 
 - Explicit grid definition `grid-template-rows` `grid-template-columns` `grid-template` `grid-template-areas`
