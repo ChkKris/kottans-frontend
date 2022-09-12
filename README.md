@@ -8,7 +8,7 @@
 ### Front-End Basics
 - [x] 3. [Intro to HTML & CSS](#intro-to-html-and-css)
 - [x] 4. [Responsive Web Design](#responsive-web-design)
-- [ ] 5. HTML & CSS Practice
+- [ ] 5. [HTML & CSS Practice](#html-css-practice)
 - [ ] 6. JavaScript Basics
 - [ ] 7. Document Object Model 
 
@@ -240,3 +240,8 @@ It was very helpful. I also liked that you can immediately put the knowledge int
   <img alt="grid_garden" src="https://user-images.githubusercontent.com/105452997/186939821-9532366f-1ec9-4c76-834f-2863113a5810.png">
 </picture>
 </details>
+
+## HTML-CSS Practice
+The purpose of the assignment was to practice coding HTML and CSS. I was really able to improve my skills and knowledge. Most of the time it took me to work with the CSS. Namely: to deal with flexbox, :hover, :focus, also the use of different units of measurement.  
+
+[Demo](https://chkkris.github.io/kottans-popup/) | [Code base](https://github.com/ChkKris/kottans-popup)
